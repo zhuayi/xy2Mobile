@@ -1,0 +1,10 @@
+{
+	"style" : "default",
+	"config" : "save_xy2.dat",
+	"width" : 540,
+	"height" : 960,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+	]
+}
